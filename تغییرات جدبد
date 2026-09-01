@@ -1,0 +1,4 @@
+git clone https://x:art_v2_x_99bc71dd2513846dad06c7221e6e2e8be9b64e3b@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-didehban-prices-only-cb0ff963.git didehban-prices-only
+git clone https://x:art_v2_x_15a70aecc872ca22055631bb51e010f15e8ab864@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-didehban-prices-oil-market-fa8eedb4.git didehban-prices-oil-market
+git clone https://x:art_v2_x_38122b5b3f7c4972e10ce4f27128db88172554c8@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-didehban-prices-finnhub-5e16acfe.git didehban-prices-finnhub
+git clone https://x:art_v2_x_da1efaa06e7eab2e0716e7e3297519148c6de8dd@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-didehban-prices-finnhub-5e16acfe.git didehban-prices-finnhub
