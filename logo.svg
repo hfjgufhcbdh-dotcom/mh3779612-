@@ -1,2 +1,41 @@
-git clone https://x:art_v2_x_180e321ce835fa42a754c2996fc719045ae402ac@31b91e7f9954ad8aa334d46f012bd8ed.artifacts.cloudflare.net/git/lee-production/lee-didehban-final-pwa-73f2b09a.git didehban-final-pwa
-<img src="logo.png" alt="دیده بان قیمت ها و اخبار فناوری">
+<div class="brand-header">
+    <!-- لوگوی شفاف و گرد دیده‌بان قیمت‌ها و اخبار فناوری -->
+    <img src="didehban_logo.png" alt="دیده‌بان قیمت‌ها و اخبار فناوری" class="didehban-logo">
+    <div class="brand-text">
+        <h2>دیده‌بان قیمت‌ها و اخبار فناوری</h2>
+        <span>قیمت لحظه‌ای طلا، سکه، ارز، ارز دیجیتال و آخرین اخبار فناوری</span>
+    </div>
+</div>
+
+<style>
+.brand-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: #1a1d26;
+    padding: 12px 20px;
+    border-radius: 14px;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    direction: rtl;
+}
+
+.didehban-logo {
+    width: 65px;
+    height: 65px;
+    object-fit: contain;
+    border-radius: 50%;
+    filter: drop-shadow(0 0 6px rgba(212, 175, 55, 0.4));
+}
+
+.brand-text h2 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: #ffffff;
+}
+
+.brand-text span {
+    font-size: 0.8rem;
+    color: #d4af37;
+}
+</style>
+ 
